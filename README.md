@@ -2,7 +2,8 @@
   <img src="https://user-images.githubusercontent.com/56459233/149536091-6f9b5985-55f2-417c-9db4-60e5e94afe69.gif" alt="animated" height='400px'/>
 </p> -->
 
-![Landon Spell](https://user-images.githubusercontent.com/56459233/150698183-82b1dc58-ca0f-456a-970b-ebb811716756.png)
+![Landon Spell (1)](https://user-images.githubusercontent.com/56459233/150701518-be7dc29c-d684-48ee-a91d-1fa949a05899.png)
+
 
 <!-- ![Landon Spell](https://user-images.githubusercontent.com/56459233/149535305-f6318b9c-6f54-435f-b1e1-7fb8049f79d3.png) -->
 
