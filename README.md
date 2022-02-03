@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spell-landon&label=Profile%20views&color=0e75b6&style=flat" alt="spell-landon" /> </p>
 
-- 🌱 I’m actively learning **Mongoose and Express**
+- 🌱 I’m actively learning **SQL, Django, and Python**
 
 - ✉️ Shoot me an email at **spell.landon@gmail.com**
 
